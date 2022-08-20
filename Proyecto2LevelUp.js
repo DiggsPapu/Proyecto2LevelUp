@@ -1,3 +1,4 @@
+// Diego Alonzo is the owner
 // Funciones
 function sumar_contador(){
     counter++;
